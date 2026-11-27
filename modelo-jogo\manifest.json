@@ -1,16 +1,16 @@
 {
-  "slug": "meu-jogo",
-  "title": "Nome do meu jogo",
-  "author": "Seu nome",
-  "authorClass": "Sua turma",
+  "slug": "caca-sinais-espacial",
+  "title": "Caça-Sinais Espacial",
+  "author": "emilyzoca",
+  "authorClass": "9C",
   "discipline": "Matemática",
-  "grades": ["6º", "7º"],
-  "tags": ["palavra-chave", "outra-palavra"],
-  "description": "Uma frase curta que explica o que o jogo ensina.",
-  "instructions": "Como jogar, em uma ou duas frases.",
-  "duration": 5,
+  "grades": ["6º ano", "7º ano", "8º ano", "9º ano"],
+  "tags": ["números inteiros", "números negativos", "regra de sinais", "adição e subtração"],
+  "description": "Um jogo espacial de 9 rodadas para treinar adição e subtração com números positivos e negativos, alternando entre caçar resultados e encontrar contas.",
+  "instructions": "Nas 6 primeiras rodadas, clique no resultado correto da conta mostrada no painel. Nas 3 últimas rodadas, escolha a conta que dá o resultado pedido. Você tem 3 vidas.",
+  "duration": "2-4 min",
   "version": "1.0.0",
   "entry": "index.html",
   "cover": "cover.svg",
-  "createdAt": "2026-11-02"
+  "createdAt": "2026-11-27"
 }
